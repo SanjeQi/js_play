@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  max-width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+#red_circle {
+  align-self: center;
+  width: 20rem;
+  height: 20rem;
+  background-color: red;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#blue_circle {
+  align-self: center;
+  width: 20rem;
+  height: 20rem;
+  background-color: blue;
+  border-radius: 50%;
+  cursor: pointer;
+}
