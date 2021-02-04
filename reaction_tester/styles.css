@@ -10,3 +10,11 @@
   width: 200px;
   display: none;
 }
+p {
+  font-size: 1.6rem;
+}
+
+p span {
+  color: rgb(20, 41, 133);
+  font-weight: bold;
+}
