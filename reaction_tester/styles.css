@@ -1,19 +1,14 @@
 body {
   font-family: Verdana, Tahoma, sans-serif;
 }
-#box_1 {
+#box {
   background-color: indianred;
   height: 200px;
   width: 200px;
   display: none;
   position: relative;
 }
-#box_2 {
-  background-color: greenyellow;
-  height: 200px;
-  width: 200px;
-  display: none;
-}
+
 p {
   font-size: 1.6rem;
 }
